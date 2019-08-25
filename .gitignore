@@ -1,4 +1,4 @@
 .arc-env
 sam.json
 sam.yaml
-vendor/bundle
+src/http/**/*/vendor/bundle/ruby/*
