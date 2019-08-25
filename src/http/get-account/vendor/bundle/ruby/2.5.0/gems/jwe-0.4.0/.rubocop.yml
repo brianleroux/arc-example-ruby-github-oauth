@@ -1,9 +1,0 @@
-Metrics/LineLength:
-  Enabled: false
-Style/RaiseArgs:
-  Enabled: false
-Metrics/BlockLength:
-  Enabled: false
-Style/PercentLiteralDelimiters:
-  PreferredDelimiters:
-    "%w": "[]"
