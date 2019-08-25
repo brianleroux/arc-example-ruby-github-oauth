@@ -14,7 +14,7 @@ https://developer.github.com/apps/building-oauth-apps/
 ```
 arc env staging GITHUB_CLIENT_ID 111xxx
 arc env staging GITHUB_CLIENT_SECRET 222xxx
-arc env staging GITHUB_REDIRECT https://xxx.cloudfront.net/staging/login
+arc env staging GITHUB_REDIRECT https://xxx.cloudfront.net/login
 ```
 
 ### Step 3: redeploy
